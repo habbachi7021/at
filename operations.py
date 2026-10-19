@@ -13,5 +13,8 @@ def multiplication(a,b):
     return a*b
 print("multiplication :" multiplication(a,b))
 
+def division(a,b):
+    return a//b
+print("division :" division(a,b))
 
 
