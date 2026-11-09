@@ -18,3 +18,6 @@ def division(a,b):
 print("division :" division(a,b))
 
 
+def rest(a,b):
+    return a%b
+print("le reste est :" reste(a,b))
